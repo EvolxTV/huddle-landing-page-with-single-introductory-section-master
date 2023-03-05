@@ -4,5 +4,5 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [FrontEndMentor Solution]()
+- Live Site URL: [Live Solution](https://evolxcsschallenge9.netlify.app)
